@@ -15,3 +15,12 @@ pipenv shell
 ```
 pipenv run
 ```
+
+## Run tests
+```
+# Run all tests
+pytest
+
+# run specific tests
+pytest ./path/script.py::test_name -sv
+```
