@@ -1,5 +1,18 @@
 # py_lab
 
+## Managing Packages
+* Add a new package to the environment
+  * Edit Pipfile
+```
+[packages]
+atlassian-python-api = "*"
+```
+* Update the current pipenv and lock
+```
+pipenv install # or update
+pipenv lock
+```
+
 ## Setup dev environment
 * Setup Python dependencies
 ```
