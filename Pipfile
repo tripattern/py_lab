@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 atlassian-python-api = "*"
-
+flask = "*"
 [dev-packages]
 pytest = "*"
 
