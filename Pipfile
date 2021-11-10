@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 atlassian-python-api = "*"
 flask = "*"
+mailjet-rest = "*"
+
 [dev-packages]
 pytest = "*"
 
