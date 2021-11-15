@@ -3,7 +3,10 @@ import sys
 import configparser
 import atlassian_api_client
 
-
+# Config file format is like an .ini file
+# [atlassian_api_client]
+# user=name@example.com
+# ...
 def main():
     config = configparser.ConfigParser()
     config.read(sys.argv[1])
