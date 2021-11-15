@@ -21,4 +21,5 @@
 # Done
 * Setup python configuration files
     * https://docs.python.org/3/library/configparser.html
+    * 
  
