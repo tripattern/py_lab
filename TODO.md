@@ -1,6 +1,7 @@
 # To Do
 * Setup python flask API on AWS Lambda
   * https://aws.amazon.com/de/blogs/opensource/deploying-python-flask-microservices-to-aws-using-open-source-tools/
+  * https://docs.aws.amazon.com/lambda/latest/dg/lambda-python.html
 * Link Lambda App to a postgresql server and use alembic etc.
  * https://medium.com/@ianbinder/postgresql-with-aws-lambda-using-python-db93b2703bf8
 * FP programming
