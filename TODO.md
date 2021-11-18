@@ -19,6 +19,8 @@
   * https://clean-code-developer.com/
 
 # Done
+* Setup the Atlassian Python Library
+  * https://atlassian-python-api.readthedocs.io/
 * Setup python configuration files
     * https://docs.python.org/3/library/configparser.html
     * 

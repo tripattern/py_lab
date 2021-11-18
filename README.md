@@ -1,5 +1,12 @@
 # py_lab
 
+## NB! Set the python path!!!!!
+* Many of the modules here are dependant on ohter modules outside of their module hierarchy
+  * Therefore you will need to...
+```
+export PYTHONPATH=~/path/to/py_lab
+```
+
 ## Managing Packages
 
 * Add a new package to the environment
