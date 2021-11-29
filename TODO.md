@@ -3,7 +3,9 @@
   * https://aws.amazon.com/de/blogs/opensource/deploying-python-flask-microservices-to-aws-using-open-source-tools/
   * https://docs.aws.amazon.com/lambda/latest/dg/lambda-python.html
 * Link Lambda App to a postgresql server and https://www.materialpalette.comhttps://www.materialpalette.com/colors/colorsuse alembic etc.
- * https://medium.com/@ianbinder/postgresql-with-aws-lambda-using-python-db93b2703bf8
+* https://medium.com/@ianbinder/postgresql-with-aws-lambda-using-python-db93b2703bf8
+* Odoo
+  * https://odoo-development.readthedocs.io/
 * FP programming
   * https://docs.python.org/3/howto/functional.html
   * http://www.cs.cornell.edu/courses/cs3110/2010su/Lectures/AdamByrtekFPinPython.pdf
@@ -23,5 +25,5 @@
   * https://atlassian-python-api.readthedocs.io/
 * Setup python configuration files
     * https://docs.python.org/3/library/configparser.html
-    * 
+* https://realpython.com/python-data-types/
  
