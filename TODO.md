@@ -1,4 +1,6 @@
 # To Do
+* Code Quality
+  * https://pylint.readthedocs.io/en/latest/
 * Setup python flask API on AWS Lambda
   * https://aws.amazon.com/de/blogs/opensource/deploying-python-flask-microservices-to-aws-using-open-source-tools/
   * https://docs.aws.amazon.com/lambda/latest/dg/lambda-python.html
