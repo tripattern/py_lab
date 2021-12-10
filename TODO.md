@@ -35,6 +35,8 @@
   * Read "Clean Code in Python"
 
 # Done
+* Python & Rest APIs
+  * https://realpython.com/api-integration-in-python/
 * Setup the Atlassian Python Library
   * https://atlassian-python-api.readthedocs.io/
 * Setup python configuration files
