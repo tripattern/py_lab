@@ -2,8 +2,9 @@
 * Code Quality
   * https://pylint.readthedocs.io/en/latest/
 * Rest APIs
-  * Client - Requestor??
   * Server - Flask
+    * Test flask api's with pytest
+      * https://iammehdi.medium.com/testing-flask-apps-with-pytest-5b7af093c53d
     * Heroku - python
     * https://aws.amazon.com/de/blogs/opensource/deploying-python-flask-microservices-to-aws-using-open-source-tools/
     * https://docs.aws.amazon.com/lambda/latest/dg/lambda-python.html
