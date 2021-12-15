@@ -1,4 +1,7 @@
 # To Do
+* Python Type Safety
+  * https://realpython.com/python-type-checking/
+  * https://docs.python.org/3/library/typing.html
 * Code Quality
   * https://pylint.readthedocs.io/en/latest/
 * Rest APIs
