@@ -47,6 +47,13 @@ pipenv shell
 pipenv run
 ```
 
+## Add module to dev environment
+* You don't need to have entered the dev environment
+```
+pipenv install name_of_module
+pipenv install --dev name_of_module
+```
+
 ## Run tests
 * First enter the pip environment
 ```

@@ -7,6 +7,7 @@ name = "pypi"
 atlassian-python-api = "*"
 flask = "*"
 mailjet-rest = "*"
+sendgrid = "*"
 
 [dev-packages]
 pytest = "*"
