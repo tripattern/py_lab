@@ -1,5 +1,4 @@
 import sys
-from mailjet_rest import Client
 import email_mailjet
 
 def main():
