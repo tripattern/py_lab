@@ -33,7 +33,8 @@ pipenv install
 pipenv install --dev
 ```
 
-* If you don't see: (py_gh_metrics) command prompt:$_____
+## Enter the dev environment
+* If you don't see: (py_lab) command prompt:$_____
 * Then start this project's virtualenv with:
 
 ```
@@ -47,7 +48,7 @@ pipenv run
 ```
 
 ## Run tests
-
+* First enter the pip environment
 ```
 # Run all tests
 pytest
