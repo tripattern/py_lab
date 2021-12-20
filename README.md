@@ -60,6 +60,12 @@ pipenv install --dev name_of_module
 # Run all tests
 pytest
 
+# run unit tests
+pytest -v -m utest
+
+# run tests that use integrations
+pytest -v -m itest
+
 # run specific tests
 pytest ./path/script.py::test_name -sv
 ```
