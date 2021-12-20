@@ -50,5 +50,8 @@
   * https://atlassian-python-api.readthedocs.io/
 * Setup python configuration files
     * https://docs.python.org/3/library/configparser.html
-* https://realpython.com/python-data-types/
- 
+* Python Typing
+  * https://realpython.com/python-data-types/
+* Pytests
+  * Markers - to distinguish between types of tests
+    * https://docs.pytest.org/en/6.2.x/example/markers.html
