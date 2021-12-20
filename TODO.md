@@ -1,4 +1,6 @@
 # To Do
+* Python Testing
+  * https://docs.pytest.org
 * Python Type Safety
   * https://realpython.com/python-type-checking/
   * https://docs.python.org/3/library/typing.html
@@ -37,6 +39,9 @@
 * Software Craft
   * https://clean-code-developer.com/
   * Read "Clean Code in Python"
+* bioinformatics
+* micropython
+  * https://micropython.org/unicorn/
 
 # Done
 * Python & Rest APIs
@@ -46,7 +51,4 @@
 * Setup python configuration files
     * https://docs.python.org/3/library/configparser.html
 * https://realpython.com/python-data-types/
-* bioinformatics
-* micropython
-  * https://micropython.org/unicorn/
  
