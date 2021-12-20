@@ -46,4 +46,7 @@
 * Setup python configuration files
     * https://docs.python.org/3/library/configparser.html
 * https://realpython.com/python-data-types/
+* bioinformatics
+* micropython
+  * https://micropython.org/unicorn/
  
