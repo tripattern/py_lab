@@ -1,4 +1,3 @@
-import sys
 from mailjet_rest import Client
 
 
