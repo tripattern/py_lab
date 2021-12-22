@@ -1,9 +1,12 @@
 # To Do
 * Python Testing
   * https://docs.pytest.org
+  * https://stackoverflow.com/questions/50155464/using-pytest-with-a-src-layer
 * Python Type Safety
   * https://realpython.com/python-type-checking/
   * https://docs.python.org/3/library/typing.html
+* Packaging a python app
+  * https://blog.ionelmc.ro/2014/05/25/python-packaging/#the-structure 
 * Code Quality
   * https://pylint.readthedocs.io/en/latest/
 * Rest APIs

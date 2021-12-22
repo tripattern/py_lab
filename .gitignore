@@ -1,3 +1,5 @@
+# Exclude for security reasons
+conf/
 # Jetbrains IDE
 *.iml
 *.idea
