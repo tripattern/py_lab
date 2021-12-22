@@ -1,5 +1,6 @@
 from atlassian import Jira
 
+
 def connect_to_jira_api(api_token, server, user):
     jira = Jira(
         url=server,
@@ -7,6 +8,7 @@ def connect_to_jira_api(api_token, server, user):
         password=api_token,
         cloud=True)
     return jira
+
 
 def get_pbi_data(jira, issue_key):
     issue = jira.issue(issue_key)  # full description
