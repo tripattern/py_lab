@@ -4,13 +4,13 @@
 * First enter the pip environment
 ```
 # Run all tests
-pytest
+pytest -v
 
-# run unit tests
-pytest -v -m utest
-
-# run tests that use integrations
+# run integration tests
 pytest -v -m itest
+
+# run tests excluding integration tests
+pytest -v -m "not itest"
 
 # run specific tests
 pytest ./path/script.py::test_name -sv
