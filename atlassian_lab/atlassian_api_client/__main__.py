@@ -9,7 +9,7 @@ import atlassian_api_client
 # ...
 def main():
     config = configparser.ConfigParser()
-    config.read(sys.argv[1])
+    config.read('conf/atl.conf')
     user = config['atlassian_api_client']['user']
     api_token = config['atlassian_api_client']['api_token']
     server = config['atlassian_api_client']['server']
