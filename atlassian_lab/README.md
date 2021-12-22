@@ -2,13 +2,11 @@
 #### Access with API Token
 * Create API Token
     * https://id.atlassian.com/manage-profile/security/api-tokens
-* Create file with access info (filename.txt)
+* Add token to atl.conf file
 ```
-user
-token
-jira_url
-```
-* Input as piped command line args to python script accessing atlassian
-```
-cat ~/path/filename.txt | xargs python ./atlass/list_of_issues
+[atlassian_api_client]
+user=YOUR_EMAIL_ADDRESS
+api_token=YOUR_ATLASSIANAPI_TOKEN
+server=YOUR_SERVER_URL
+issue=YOUR_ISSUE_NUMBER
 ```
