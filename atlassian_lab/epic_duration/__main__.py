@@ -2,7 +2,7 @@ import sys
 import configparser
 # The following will only work if you set the PYTHONPATH variable
 # > export PYTHONPATH=~/path/to/py_lab
-from atlassian_lab.atlassian_api_client import atlassian_api_client
+from atlassian_lab.issue_data import get_issue
 
 
 def main():

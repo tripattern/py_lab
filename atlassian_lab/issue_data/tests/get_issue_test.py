@@ -1,5 +1,5 @@
 import configparser
-from atlassian_lab.atlassian_api_client.atlassian_api_client import connect_to_jira_api, get_pbi_data
+from atlassian_lab.issue_data.get_issue import connect_to_jira_api, get_pbi_data
 import pytest
 
 @pytest.mark.itest
