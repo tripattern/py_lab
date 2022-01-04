@@ -1,0 +1,20 @@
+name: code quality check
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: code quality check
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install dependecies
+        uses: VaultVulp/action-pipenv@v2.0.1
+        with:
+          command: install -d
+
+      - name: Type saftey check
+        uses: VaultVulp/action-pipenv@v2.0.1
+        with:
+          command: run mypy ./
