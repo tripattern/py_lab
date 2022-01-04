@@ -14,7 +14,7 @@ jobs:
           python-version: 3.8
       - name: Install Dependencies
         run: |
-          pip install mypy
+          pipenv install
       - name: mypy
         run: |
-          mypy ./
+          pipenv run mypy ./
