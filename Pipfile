@@ -11,6 +11,7 @@ sendgrid = "*"
 
 [dev-packages]
 pytest = "*"
+types-requests = "*"
 mypy = "*"
 
 [requires]
