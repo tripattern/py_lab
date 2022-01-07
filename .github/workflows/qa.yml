@@ -7,9 +7,10 @@ jobs:
     runs-on: ubuntu-latest
     name: code quality check
     steps:
+      - name: Checkout repo at $GITHUB_WORKSPACE # in order that the workflow can access it
       - uses: actions/checkout@v2
 
       - name: Set up Python 3.8
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v2
         with:
           python-version: 3.8
