@@ -32,5 +32,5 @@ jobs:
 
       - name: Run mypy and check for type errors
         run: |
-          pipenv run mypy   
+          pipenv run mypy ./  
 
