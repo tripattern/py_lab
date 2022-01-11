@@ -1,4 +1,6 @@
 # To Do
+* https://www.heroku.com/python
+* https://github.com/PacktPublishing/Functional-Python-Programming-Second-Edition/blob/master/Chapter01/ch01_ex1.py
 * Python Testing
   * https://docs.pytest.org
   * https://stackoverflow.com/questions/50155464/using-pytest-with-a-src-layer
