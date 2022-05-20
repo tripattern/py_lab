@@ -1,4 +1,5 @@
 # To Do
+* Create a python rest api and then call it and send email from your laptop
 * https://www.heroku.com/python
 * https://github.com/PacktPublishing/Functional-Python-Programming-Second-Edition/blob/master/Chapter01/ch01_ex1.py
 * Python Testing
